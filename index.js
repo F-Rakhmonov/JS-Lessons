@@ -47,4 +47,5 @@
 //     return 'Hi'
 // }
 
-// console.log(myFuncDecl()); //Hi
+// console.log(myFuncDecl()); //
+
